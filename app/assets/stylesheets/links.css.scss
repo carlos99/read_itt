@@ -43,7 +43,7 @@
 }
 
 .navbar-default{
-	background-color: #3C948B;
+	background-color: #111111;
 	border: none;
 	border-radius: 0 !important;
 }
@@ -56,4 +56,41 @@
 	a:hover{
 		color: #f60 !important;
 	}
+}
+
+.btn-primary, .btn-default{
+	background-color: #163c7b;
+	color: #fff;
+}
+
+.h1-titles{
+	color: #f60;
+	font-weight: bold;
+	text-decoration: none !important;
+}
+
+.title-nav1{
+	a{
+		color: #fff !important;
+	}
+
+	a:hover{
+		color: #f60 !important;
+		text-decoration: none;
+	}
+}
+
+.btn-default{
+	 border-color: #333;
+}
+
+.vote-btn{
+	background-color: #FFB517 !important;
+	border-color: #333 !important;
+	color: #333;
+
+}
+
+.vote-btn:hover{
+
 }
