@@ -1,0 +1,26 @@
+development:
+  host: localhost
+  adapter: postgresql
+  encoding: unicode
+  database: rails_readitt_dev
+  pool: 5
+  username: rails_user
+  password: mint06
+
+test:
+  host: localhost
+  adapter: postgresql
+  encoding: unicode
+  database: rails_readitt_test
+  pool: 5
+  username: rails_user
+  password: mint06
+
+production:
+  host: localhost
+  adapter: postgresql
+  encoding: unicode
+  database: rails_readitt_prod
+  pool: 5
+  username: rails_user
+  password: mint06 
